@@ -1,0 +1,60 @@
+.tx1{
+  background-color: yellow;
+  text-transform: uppercase;
+}
+
+.tx2{
+  background-color: yellow;
+  color: green;
+}
+
+.vermelho {
+ color: red;
+}
+
+h1 em, h3 em {
+  font-size: 40px;
+  border: 1px black solid;
+}
+
+li em{
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.linguagem{
+  color: blue;
+}
+
+.jv{
+  background-color: pink;
+}
+ 
+.stack:hover{
+  font-weight: 800;
+  color: orange;
+}
+
+.w3:hover {
+  font-weight: 800;
+  color: green;
+
+}
+
+.mdn:hover {
+  font-weight: 800;
+  color: black;
+
+}
+
+.dev:hover {
+  font-weight: 800;
+  color: yellow;
+
+}
+
+.try:hover {
+  font-weight: 800;
+  color: green;
+
+}
